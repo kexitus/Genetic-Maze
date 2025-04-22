@@ -1,0 +1,20 @@
+C:\[Study]\Genetic Maze\Genetic Maze\Genetic Maze\bin\Debug\Genetic_Maze.exe.config
+C:\[Study]\Genetic Maze\Genetic Maze\Genetic Maze\bin\Debug\Genetic_Maze.exe
+C:\[Study]\Genetic Maze\Genetic Maze\Genetic Maze\bin\Debug\Genetic_Maze.pdb
+C:\[Study]\Genetic Maze\Genetic Maze\Genetic Maze\obj\Debug\Genetic Maze.csproj.AssemblyReference.cache
+C:\[Study]\Genetic Maze\Genetic Maze\Genetic Maze\obj\Debug\Genetic_Maze.Properties.Resources.resources
+C:\[Study]\Genetic Maze\Genetic Maze\Genetic Maze\obj\Debug\Genetic Maze.csproj.GenerateResource.cache
+C:\[Study]\Genetic Maze\Genetic Maze\Genetic Maze\obj\Debug\Genetic Maze.csproj.CoreCompileInputs.cache
+C:\[Study]\Genetic Maze\Genetic Maze\Genetic Maze\obj\Debug\Genetic_Maze.exe
+C:\[Study]\Genetic Maze\Genetic Maze\Genetic Maze\obj\Debug\Genetic_Maze.pdb
+C:\[Study]\Genetic Maze\Genetic Maze\Genetic Maze\obj\Debug\Genetic_Maze.Form1.resources
+C:\.Study\Genetic Maze\Genetic Maze\Genetic Maze\bin\Debug\Genetic_Maze.exe.config
+C:\.Study\Genetic Maze\Genetic Maze\Genetic Maze\bin\Debug\Genetic_Maze.exe
+C:\.Study\Genetic Maze\Genetic Maze\Genetic Maze\bin\Debug\Genetic_Maze.pdb
+C:\.Study\Genetic Maze\Genetic Maze\Genetic Maze\obj\Debug\Genetic Maze.csproj.AssemblyReference.cache
+C:\.Study\Genetic Maze\Genetic Maze\Genetic Maze\obj\Debug\Genetic_Maze.Form1.resources
+C:\.Study\Genetic Maze\Genetic Maze\Genetic Maze\obj\Debug\Genetic_Maze.Properties.Resources.resources
+C:\.Study\Genetic Maze\Genetic Maze\Genetic Maze\obj\Debug\Genetic Maze.csproj.GenerateResource.cache
+C:\.Study\Genetic Maze\Genetic Maze\Genetic Maze\obj\Debug\Genetic Maze.csproj.CoreCompileInputs.cache
+C:\.Study\Genetic Maze\Genetic Maze\Genetic Maze\obj\Debug\Genetic_Maze.exe
+C:\.Study\Genetic Maze\Genetic Maze\Genetic Maze\obj\Debug\Genetic_Maze.pdb
